@@ -1,0 +1,9 @@
+name: baseless
+version: 0.1.0
+authors:
+    - Jonathan Stoler
+description: non-compliant base16 builder
+
+dependencies:
+    crustache:
+        github: MakeNowJust/crustache
